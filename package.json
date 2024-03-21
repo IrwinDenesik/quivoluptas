@@ -1,0 +1,24 @@
+{
+  "name": "quivoluptas",
+  "version": "1.10.0",
+  "main": "./esm/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrwinDenesik/quivoluptas.git"
+  },
+  "author": "GwendolynJast",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/IrwinDenesik/quivoluptas.git/issues"
+  },
+  "homepage": "https://github.com/IrwinDenesik/quivoluptas.git",
+  "devDependencies": {
+    "@types/node": "^18.0.6"
+  },
+  "dependencies": {
+    "eumquia": "^1.0.0"
+  }
+}
